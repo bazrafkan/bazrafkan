@@ -2,11 +2,10 @@
 
 I’m currently working on Mondora
 
-![Mondora](https://mondora.com/static/34cf084b5c35ec512da6a499f9146d4d/a54c6/header.png)
+![Android](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/22846230)
 
-I’m currently learning Android 
+![Mondora](https://mondora.com/static/34cf084b5c35ec512da6a499f9146d4d/a54c6/header.png) 
   
-  ![Android](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR54T_HJSm7Laa3G4bF0S9e8BPK4BNYAKffCQ&usqp=CAU)
 
 
 <!--
