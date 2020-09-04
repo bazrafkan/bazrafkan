@@ -2,9 +2,7 @@
 
 I’m currently working on Mondora
 
-![Android](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/22846230)
-
-![Mondora](https://mondora.com/static/34cf084b5c35ec512da6a499f9146d4d/a54c6/header.png) 
+![Mondora](https://github.com/bazrafkan/myImage/blob/master/github_photo.png) 
   
 
 
